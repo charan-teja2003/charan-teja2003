@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/charan-teja-marrimanu-573117270/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:charantejacherry2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-charan--teia2003-181717?style=flat-square&logo=github)](https://github.com/charan-teia2003)
+[![GitHub](https://img.shields.io/badge/GitHub-charan--teia2003-181717?style=flat-square&logo=github)](https://github.com/charan-teja2003)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--8851--213X-brightgreen?style=flat-square&logo=orcid)](https://orcid.org/0009-0007-8851-213X)
 
 ---
